@@ -318,7 +318,7 @@ def load_data(nd2filepath):
 if __name__ == "__main__":
 
     # URLs for the ND2 files
-    url_to_zstackonechamber_nd2_file = zstack_once_with_full_chambers.nd2"
+    url_to_zstackonechamber_nd2_file = "zstack_once_with_full_chambers.nd2"
     url_to_zstackallchambers_nd2_file = "zstackexperiment_29082023.nd2"
 
     # Determine the directory where the script is located
